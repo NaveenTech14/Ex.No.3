@@ -1,7 +1,7 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  17.10.2025                                                                          
+### REGISTER NUMBER : 25014622
 ### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
 
 ### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
@@ -17,8 +17,8 @@ Procedure:
     •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
     •	"How do vaccines work? Describe the process of immunization in simple terms."
 4. Missing Word Prompting:
-   •	"The capital of France is ____."
-  •	"In photosynthesis, plants absorb sunlight to produce ____."
+   •	"The capital of France is PARIS."
+  •	"In photosynthesis, plants absorb sunlight to produce GLUCOSE."
 
 
 ### Conclusion 
